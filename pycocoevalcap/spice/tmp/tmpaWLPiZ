@@ -1,0 +1,1154 @@
+[
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 544006, 
+    "refs": [
+      "a man in uniform is swinging his bat at a baseball coming towards him", 
+      "the batter who is standing next to home plate has just swung his baseball bat and hit a baseball", 
+      "there is a batter and catcher at home base"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 544014, 
+    "refs": [
+      "in the crowd filled stadium the fans watch the batter swing", 
+      "the man is swinging a bat at the ball", 
+      "a catcher with a catcher 's mitt is squatting behind home plate"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 2759000, 
+    "refs": [
+      "it is covered in brown", 
+      "it is rusted and old-looking", 
+      "it has flecks of rust on it"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 3779000, 
+    "refs": [
+      "there are several different glasses of wine", 
+      "a bunch of cups are filled with very little amounts of wine", 
+      "there are a lot of wine glasses filled with wine"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 4551001, 
+    "refs": [
+      "beautiful kits are flying in the sky at the event", 
+      "there are many colorful kites being flown in the sky", 
+      "there are many people have a great time on the field behind the dinosaur"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 4576009, 
+    "refs": [
+      "the sky is dark and dreary", 
+      "lots of people are using umbrellas", 
+      "people are carrying umbrellas"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 5502001, 
+    "refs": [
+      "there are lots of inflatibles that children would enjoy playing on", 
+      "there are kids games and kites in the air", 
+      "even kids can fly a kite"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 6771003, 
+    "refs": [
+      "there are people gathered in cosplay", 
+      "many people are gathered in costumes", 
+      "people are dressed up in costumes"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 6818002, 
+    "refs": [
+      "there is a shower head and toilet paper holder", 
+      "there is a toilet on the ground", 
+      "there is a hole in the floor to pee into"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 7125003, 
+    "refs": [
+      "the ground is illuminated by sunlight", 
+      "the women riding a bike is casting a shadow", 
+      "the moon is not in the sky"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 7977000, 
+    "refs": [
+      "he 's riding on a skateboard", 
+      "he is balancing on the tail of a skateboard", 
+      "he is on top of a board with wheels"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 8589001, 
+    "refs": [
+      "they are using boards with four wheels at a park with a rail", 
+      "the person in the foreground is skating along an edge on a board with four wheels", 
+      "he 's at a skate park riding his skateboard"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 10395000, 
+    "refs": [
+      "it is a childs teddy bear", 
+      "this is an old stuffed animal that ca n't hurt anyone", 
+      "it is very cuddly and happy"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 11042000, 
+    "refs": [
+      "it is shaped like a triangle has a crust and is covered in cheese", 
+      "it is shaped like a triangle and has melted cheese on top of it", 
+      "it has a crust and cheese on it"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 11042002, 
+    "refs": [
+      "grease from the pizza is soaking into the paper plate", 
+      "it is white and thin with rippled edges", 
+      "it has ridges in it and looks very flimsy"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 22628003, 
+    "refs": [
+      "there 's a surfer walking along the sand and tide marks on the beach", 
+      "there is a large beach before the water", 
+      "people are carrying surf boards"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 44520000, 
+    "refs": [
+      "the words are written in spray paint", 
+      "the stop sign has been marked with white paint", 
+      "it is written in spray paint"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 69914001, 
+    "refs": [
+      "they are in a kitchen and look to be mixing food", 
+      "they are in a kitchen standing over trays of food", 
+      "the are in a kitchen preparing food"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 131869001, 
+    "refs": [
+      "the man is poised to backhand the tennis ball", 
+      "a woman is holding a tennis racket on a court", 
+      "the man is swinging a tennis racket on a tennis court"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 132733000, 
+    "refs": [
+      "the dog has torn open a box of scooby snacks and is eating them", 
+      "it is sniffing scooby snacks", 
+      "its mouth is near the foot item"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 134010017, 
+    "refs": [
+      "there is nowhere for people to stand and wait on the train", 
+      "no platform is visible beside the rails", 
+      "no one is standing and waiting for the train"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 134016002, 
+    "refs": [
+      "it is all prepared and waiting in dishes", 
+      "it is nicely presented on bowls and plates", 
+      "it is placed in serving bowls and arranged on a table"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 134288004, 
+    "refs": [
+      "the fruit is round and orange with a circle on top where the stem goes", 
+      "it is round and orange", 
+      "it is a round citrus produce"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 134935003, 
+    "refs": [
+      "there are pine leaves and red decorations", 
+      "there are sugar cookies and christmas flowers on a table", 
+      "the table setting is decorated like christmas"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 135673013, 
+    "refs": [
+      "the plane can be seen against a bright blue sky", 
+      "there are no clouds in the sky", 
+      "both planes can be clearly seen"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 135785001, 
+    "refs": [
+      "the boys are doing skate tricks outside shops that appear to be closed", 
+      "there is a bike in the background", 
+      "no ramps are visible and it is in front of a building"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 136533004, 
+    "refs": [
+      "it 's a large button with a circle on it", 
+      "it has the usual power logo", 
+      "it is a round button with a line in the middle"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 136720002, 
+    "refs": [
+      "he is black furry and has four legs", 
+      "it is furry and walks on all fours", 
+      "it is very fluffy and looks like a black terrier"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 136722002, 
+    "refs": [
+      "the sky is a crisp blue that is n't blemished by a single wisp of a cloud", 
+      "there are no clouds in the sky at all", 
+      "it is a uniform blue color"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 137300002, 
+    "refs": [
+      "he is holding up a kite in the sky", 
+      "he is holding a kite by a string", 
+      "there is a kite on a string high up in the air"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 137810000, 
+    "refs": [
+      "there are multiple lanes leading to a large intersection", 
+      "building are visible on each corner of the intersection", 
+      "there are building and sidewalks on every side"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 137950002, 
+    "refs": [
+      "vintage photographs are sepia toned", 
+      "it is an older looking aircraft and the photo is in black and white", 
+      "the picture is black and white and the plane is vintage"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 138246000, 
+    "refs": [
+      "they are large with hooved feet and saddles", 
+      "they have long tails and manes", 
+      "they have four legs and have manes"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 138656002, 
+    "refs": [
+      "it 's a large animal with a long neck", 
+      "it is brown and spotted with a long neck", 
+      "it is very tall with a long neck"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 140017002, 
+    "refs": [
+      "the cheese is melted and the crust is golden brown", 
+      "the cheese is melted and the crust is browned", 
+      "the crust is golden brown"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 140860002, 
+    "refs": [
+      "he needs to be near the plug to work on his laptop", 
+      "his rear is touching the floor", 
+      "walls are perpendicular to floors"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 141343001, 
+    "refs": [
+      "it is fluffy with round ears", 
+      "it has a brown nose and little ears", 
+      "because it has two round ears and a snout"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 141651000, 
+    "refs": [
+      "all of its feet are of the ground", 
+      "the back feet of the animal are high in the air and he just went over raised poles", 
+      "is trying to get over the wooden poles"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 141673004, 
+    "refs": [
+      "he needs glasses to see properly", 
+      "the man is wearing eyeglasses", 
+      "he is wearing a set of glasses"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 141962001, 
+    "refs": [
+      "he is riding a motorcycle", 
+      "it protects him on his motorcycle", 
+      "he is riding a fast motorcycle"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 142323003, 
+    "refs": [
+      "there is a sign showing various locations", 
+      "there seem to be lines above the street that are used in a street car system", 
+      "you can see a transit stop sign in the image"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 187695002, 
+    "refs": [
+      "there is a bun and hotdog with onions and condiments on top", 
+      "it is on a bun with chili and cheese", 
+      "it is a hotdog in a bun with toppings"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 262531001, 
+    "refs": [
+      "he 's riding on a skateboard", 
+      "he is bent low atop a board with wheels", 
+      "he is riding on a skateboard"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 262608003, 
+    "refs": [
+      "there is food on a plate", 
+      "i can see rice underneath the meat and next to the vegetables", 
+      "there is rice mixed in with the food"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 262651002, 
+    "refs": [
+      "this boat is a large barge", 
+      "it is designed to move cargo", 
+      "it is a large boat for cargo"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 263258002, 
+    "refs": [
+      "the awestruck young man is looking at a baseball bat in front of a bullpen full of older players", 
+      "a boy is wearing a helmet and holding a baseball bat", 
+      "the uniformed boy is holding a baseball bat"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 263505001, 
+    "refs": [
+      "there are squares painted on the ground", 
+      "there are white lines on the pavement", 
+      "there are several white lines around"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 264180001, 
+    "refs": [
+      "it has black and white spot", 
+      "the animal has a large tongue sticking out and is huge with four hooves", 
+      "it has black and white fur on it"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 264279004, 
+    "refs": [
+      "the person is standing on a board in the ocean", 
+      "he is standing on a board in the water on a small wave", 
+      "he is on top of waves"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 264382000, 
+    "refs": [
+      "a man is wearing a glove an pitching a ball", 
+      "a pitcher is about to throw a baseball", 
+      "he has a mitt on"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 264423001, 
+    "refs": [
+      "the string from the kite in the air leads to them", 
+      "they are holding a string attached to the kite in the sky", 
+      "a device is blowing in the wind and its connected by a string"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 265063005, 
+    "refs": [
+      "the officers have a great view from on top of their mounts", 
+      "he is sitting perched on top of a horse", 
+      "he sits on a saddle on a large animal"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 265725001, 
+    "refs": [
+      "his batting stance is for a player who bats with their right hand", 
+      "a player is standing in the left-most batter 's box", 
+      "he holds the bat with his right hand uppermost"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 265742004, 
+    "refs": [
+      "it has one tusk on each side of the face", 
+      "it is an elephant and the tusks are visible", 
+      "it is an elephant"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 266920005, 
+    "refs": [
+      "they are standing in the grass grazing", 
+      "they are grazing on grass", 
+      "the zebras are bending down while standing together in a grassy field"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 267521014, 
+    "refs": [
+      "american airlines is a modern company", 
+      "there are modern looking airplanes at an airport terminal", 
+      "the airplane has the brand american on it"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 269105002, 
+    "refs": [
+      "the toilet is white while the wall is olive green", 
+      "the toilet is white and the wall is green", 
+      "the wall is green and the toilet isnt"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 269632002, 
+    "refs": [
+      "the black sky is above the bus with it 's headlights on", 
+      "it is dark out and the vehicles are using there headlamps", 
+      "the bus has its headlights on"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 269721002, 
+    "refs": [
+      "a pitcher in a black uniform is preparing to throw the baseball", 
+      "holding a baseball behind his back the pitcher prepares to throw", 
+      "a man is holding a baseball and mitt"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 269815004, 
+    "refs": [
+      "the person has a big smile on their face", 
+      "she is smiling and gesturing expressively", 
+      "she is smiling in the doorway"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 271177002, 
+    "refs": [
+      "it only has two wheels", 
+      "the vehicle has two wheels handlebars a headlight and an engine", 
+      "it only has two wheels"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 271607002, 
+    "refs": [
+      "the bear is out in the backyard among leaves and is well worn", 
+      "it appears to be vintage", 
+      "the bear looks a bit dirty"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 272110001, 
+    "refs": [
+      "people are riding skateboards around a fountain", 
+      "he is jumping into the air with a skateboard on his feet", 
+      "one boy is jumping in the air with his board and the other is crouched down"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 272311000, 
+    "refs": [
+      "there feet are covered and the covering goes up there thigh", 
+      "they are up to their knees", 
+      "they are wearing special garb"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 284698001, 
+    "refs": [
+      "the road curves to the right", 
+      "it is bending towards the river on the right", 
+      "the path is shifting more to the right"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 285497000, 
+    "refs": [
+      "only one person has ski poles", 
+      "they are on a snowboard", 
+      "one is on a snowboard and not holding poles"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 305800000, 
+    "refs": [
+      "there are wine bottles and many empty glasses on the table", 
+      "there are several different glasses of wine", 
+      "there are many different glasses and types of wine"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 306914001, 
+    "refs": [
+      "the air is filled with colorful flying objects moored by strings", 
+      "it is a windy day at the park", 
+      "there are a bunch of jellyfish kites above these people"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 328777002, 
+    "refs": [
+      "the word is on the side of the plane", 
+      "it has a boeing logo on the front of the plane", 
+      "it is written on the side of the airplane"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 331856017, 
+    "refs": [
+      "a man in shorts is standing on a tennis court holding a racket", 
+      "the man in the red shorts is carrying a tennis racket on a tennis court", 
+      "the man is holding a tennis racket"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 393271001, 
+    "refs": [
+      "the figure is dressed the same going down a hill", 
+      "it seems to be the same snowboarder doing different tricks", 
+      "the same snowboarder is present many times"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 393284000, 
+    "refs": [
+      "the ground is covered in snow", 
+      "there is snow on the ground and the person in this image is snowboarding", 
+      "there is a lot of snow and a man snowboarding"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 393338001, 
+    "refs": [
+      "they are yellow and red with petals shaped in an oval", 
+      "they look like they are made of two lips", 
+      "they are bright spring flowers shaped like a u."
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 394418000, 
+    "refs": [
+      "the man is swinging a tennis racket purposefully at a ball", 
+      "the athlete is reaching with his racket to hit a tennis ball", 
+      "stretching high above his head he is reaching to hit a tennis ball"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 395283003, 
+    "refs": [
+      "he is holding a string hooked to the kite", 
+      "he is holding two string holders and pulling on the kite", 
+      "he is holding the strings attached to it as it moves in the air"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 396369001, 
+    "refs": [
+      "a family is sitting around enjoying each other 's company", 
+      "they are at a long table and the child is doing a puzzle on it", 
+      "there is a family gathering in the photo"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 397279002, 
+    "refs": [
+      "he is standing on a tennis court swinging a racket", 
+      "he is holding a racket on a tennis court waiting for the ball", 
+      "he is on a tennis court holding a tennis racket"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 398222002, 
+    "refs": [
+      "there are red and green decorations around the table", 
+      "a mini christmas tree design is present", 
+      "there are small trees around the house"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 399178001, 
+    "refs": [
+      "the man is hitting the ball with a bat", 
+      "a player in a uniform is swinging a bat", 
+      "a hitter is standing on a baseball diamond swinging a bat"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 399839003, 
+    "refs": [
+      "she is wearing some earrings", 
+      "there is a shiny item in her ear", 
+      "she has a diamond ear ring in her ear"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 399865002, 
+    "refs": [
+      "there is a sign saying public parking", 
+      "there are several signs that read public parking", 
+      "there is an entrance of the street and a large sign that says park"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 400528000, 
+    "refs": [
+      "she is putting scissors in his hair", 
+      "she is combing his hair and holding scissors", 
+      "she is fixing her friends line up"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 400709000, 
+    "refs": [
+      "he has a wet suit on", 
+      "he is wearing a wetsuit to surf", 
+      "he has a proper wetsuit on"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 400794001, 
+    "refs": [
+      "he is holding food", 
+      "he has a bit of pizza in his hand", 
+      "he is looking at a piece of food in his hand"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 400981000, 
+    "refs": [
+      "there is a net diving the court", 
+      "they are hitting a tennis ball on a court", 
+      "there are two people on a tennis court holding tennis racketsand and there is a sign that says us open"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 401552002, 
+    "refs": [
+      "it is not a rainy day", 
+      "he may poke his eye out", 
+      "the umbrella is too big and heavy for him"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 401556012, 
+    "refs": [
+      "there is no visible dirt and everything is shiny like it 's been wiped down recently", 
+      "everything is in its place and everything seems tidy", 
+      "everything is spotless and there is nothing on the floor"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 401850000, 
+    "refs": [
+      "behind the large buildings the sky is blue and cloudless", 
+      "there is one wispy cloud in the entire sky", 
+      "it is very blue and sharp"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 401901004, 
+    "refs": [
+      "the boys are wearing clothing typical for the 1930 's and the photo is in black and white", 
+      "boys are wearing very outdated clothes and the photo is in black and white", 
+      "the children are wearing old-style clothes and it 's in black and white"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 402357000, 
+    "refs": [
+      "the wall and the elephant are both grey", 
+      "it is grey and the wall behind it is grey", 
+      "the wall and rocks around it are greyish brown just like the animal"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 402802000, 
+    "refs": [
+      "they are eating a piece of fruit and drinking milk and orange juice", 
+      "they are drinking orange juice", 
+      "they have juices and toast out"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 403013003, 
+    "refs": [
+      "everything needed to prepare a meal is contained in the room", 
+      "there is a refrigerator and stove next to cabinets", 
+      "there is an oven and cooking supplies"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 403078001, 
+    "refs": [
+      "it is slick black material that covers his body snugly and he is carrying a surfboard", 
+      "he is preparing to go surfing", 
+      "it looks water resistant and sheen"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 403693001, 
+    "refs": [
+      "she is not currently standing", 
+      "he has his butt on the floor and his legs bent", 
+      "their bottom is on the floor"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 403758006, 
+    "refs": [
+      "nothing in the image is wet", 
+      "water is not falling out of the sky", 
+      "the ground is dry dirt"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 524436004, 
+    "refs": [
+      "the young couple are kissing on the bench and they are completely dry", 
+      "water is not on the tops of the cars", 
+      "there is no water anywhere and nothing is wet"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 524822007, 
+    "refs": [
+      "it is one room with couches and a tv", 
+      "this room has a fireplace a couch multiple armchairs and a television mounted on the wall", 
+      "there is a sectional couch and a television and fire place"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 525354003, 
+    "refs": [
+      "the top of the tie is visible", 
+      "he is dressed in a formal way", 
+      "the tie is visible between the top folds of his shirt"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 525420000, 
+    "refs": [
+      "there are holes in the walls and they are peeling", 
+      "the plaster wall is broken and needs repaired", 
+      "the wall has water damage"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 526425003, 
+    "refs": [
+      "german shepherds have long bushy tails and black backs", 
+      "this large brown and black dog has a long snout and ears that stick up", 
+      "it is big and has brown and black fur"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 526778000, 
+    "refs": [
+      "he is skiing very fast downhill and needs to protect his head", 
+      "it is hard and perfectly covers his skull", 
+      "he is wearing a red bull helmet skiing"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 526962005, 
+    "refs": [
+      "it is yellow and curved", 
+      "it is a yellow curved fruit", 
+      "it is yellow and curved"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 527038001, 
+    "refs": [
+      "the people are using umbrellas", 
+      "there are droplets in the air", 
+      "there is water falling from the sky and a man has an umbrella"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 527644001, 
+    "refs": [
+      "it is a large military plane", 
+      "the plane is shaped like an f-16", 
+      "it has the wings and is doing military training maneuvers"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 527962001, 
+    "refs": [
+      "there are no cars or people on the street", 
+      "there are no people or cars around", 
+      "the street is empty of people"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 528525001, 
+    "refs": [
+      "kites are made of lightweight material strung across a lightweight frame", 
+      "it is fabric shaped in a triangle", 
+      "the flat orange kite is elevated above his head"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 529806001, 
+    "refs": [
+      "the players are running in a field after a disc in the air", 
+      "the players are throwing a small disk back and forth", 
+      "some people are running after the disc"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 530520006, 
+    "refs": [
+      "grass is a soft surface found outdoors", 
+      "the blades are pointed upwards and they are green", 
+      "the man are gathered on a grass field with a laptop"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 530875000, 
+    "refs": [
+      "a boy is riding his skateboard under the street lights in the dark", 
+      "the parking lot lights are on", 
+      "the street light is on"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 531047000, 
+    "refs": [
+      "they are holding glasses of champagne and toasting", 
+      "the all have glasses of champagne", 
+      "they are toasting glasses of champagne"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 531286006, 
+    "refs": [
+      "the bus is emblazoned with it 's number in neon to let passengers know where it 's going", 
+      "there is an electronic display on the front of the bus that shows the number", 
+      "the electronic sign on the bus says that"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 531299016, 
+    "refs": [
+      "the colors in the photo are crisp and vibrant", 
+      "modern roads are paved and marked extensively", 
+      "the man is in modern clothes about to go down a hill"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 532126001, 
+    "refs": [
+      "a office chair does not belong in a bath tub", 
+      "there is a chair in the tub and the wall is unfinished", 
+      "there is a chair in the bathtub"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 532142003, 
+    "refs": [
+      "there is a different number on the front of the train", 
+      "the train has a sign calling it 702 on the front", 
+      "the front of the train says 701"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 532552004, 
+    "refs": [
+      "the player is holding a bad and on a baseball diamond", 
+      "the batter is waiting for a pitch", 
+      "there is a player with a bat on his shoulder"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 532693002, 
+    "refs": [
+      "his head is down and his eyes are closed", 
+      "the dog is lying down with it 's eyes closed", 
+      "he has his eyes closed"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 532983002, 
+    "refs": [
+      "the people are in the dining car of a train", 
+      "it 's a long dining car", 
+      "the seats are very narrowly placed inside of a rail car"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 533137002, 
+    "refs": [
+      "everyone is wearing skis", 
+      "there are mounds of snow", 
+      "there is snow on the ground and they have skiis on their feet"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 533464010, 
+    "refs": [
+      "modern garden decorations are in the photo", 
+      "there is an electrical cable in the background", 
+      "the clock on the tower is modern"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 533958001, 
+    "refs": [
+      "the plate is made of white ceramic or bakelite", 
+      "it is made from porcelain", 
+      "it is not thin and bending"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 534121002, 
+    "refs": [
+      "there is an opening in the roof", 
+      "there is one in the top left of the image", 
+      "there is a window in the ceiling"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 534194019, 
+    "refs": [
+      "the flooded area is just s couple of inches deep", 
+      "the man just has his foot in the water underneath the bench of the flooded area", 
+      "it has n't even risen up to the level of the bench the person is sitting on"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 534210002, 
+    "refs": [
+      "he is a wearing a wet suit and riding a wave", 
+      "she is standing on a board and riding on an ocean wave", 
+      "he is on top of waves"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 534275003, 
+    "refs": [
+      "it is large and long with tinted windows", 
+      "it is long and can hold many people", 
+      "it is big and looks to hold many passengers"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 535080002, 
+    "refs": [
+      "it is laying down it its eyes closed", 
+      "it is curled up with its eyes closed", 
+      "they are a very tired animal"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 547062001, 
+    "refs": [
+      "it is a small furry animal with four legs", 
+      "it has a clear muzzle and wagging tail", 
+      "it is black and white with a short tail"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 568425003, 
+    "refs": [
+      "the stop sign is no longer red", 
+      "the red on the stop sign is worn away", 
+      "the sign is all faded"
+    ]
+  }, 
+  {
+    "test": "is is is the the the the the the the the the the the the the", 
+    "image_id": 571925001, 
+    "refs": [
+      "he is biting a vine of leaves with his mouth", 
+      "he is very hungry at the moment", 
+      "the giraffe is pulling food from the basket on the pole"
+    ]
+  }
+]
